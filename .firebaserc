@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "lista-empleados-84566": {
+      "hosting": {
+        "empleados": [
+          "lista-empleados-84566"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "lista-empleados-84566"
+  }
+}
